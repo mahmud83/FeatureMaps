@@ -1,9 +1,9 @@
 ## ConvNets Feature Maps 
-Full ConvNets inner map representation and video rendering.
+Full ConvNets Feature map representation and video rendering.
 
 
 ## Introduction
-The framework allows to explore ConvNets feature maps to plot single images, sequences or render .AVI videos.
+This project uses Python and OpenCV to display feature maps of a ConvNet trained for an mini RC autonomous car and render a video with the obtained activations. The full article is avaliable on [Medium](https://keras.io).
 
 
 ## Code style
