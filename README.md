@@ -33,7 +33,7 @@ A link to the final video can be found [here](https://www.youtube.com/watch?v=cc
 
 ## Code Exemple
 
-Please refer to the 'feature_maps' notebook for details.
+Please refer to the `feature_maps` notebook for details.
 
 
 ## Installation
