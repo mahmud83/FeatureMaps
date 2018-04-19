@@ -11,13 +11,8 @@ PEP 8 -- Style Guide for Python Code.
 
 
 ## Screenshot
-![alt text](https://github.com/Axionable/FeatureMaps/blob/master/Photos/original.png?raw=true)
 
-![alt text](https://github.com/Axionable/FeatureMaps/blob/master/Photos/feature_map.png?raw=true)
-
-![alt text](https://github.com/Axionable/FeatureMaps/blob/master/Photos/mask.png?raw=true)
-
-![alt text](https://github.com/Axionable/FeatureMaps/blob/master/Photos/lane_segmentation.png?raw=true)
+A link to the video can be found [here](hhttps://www.youtube.com/watch?v=ccShIHBCx4g)
 
 ![alt text](https://github.com/Axionable/FeatureMaps/blob/master/Photos/merged_image.png?raw=true)
 
