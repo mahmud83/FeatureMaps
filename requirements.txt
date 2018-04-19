@@ -1,0 +1,4 @@
+tqdm
+ipython
+opencv-python
+keras
