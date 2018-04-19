@@ -3,7 +3,7 @@ Full ConvNets Feature map representation and video rendering.
 
 
 ## Introduction
-This project uses Python and OpenCV to display feature maps of a ConvNet trained for an mini RC autonomous car. Also,  it allows video rendering superposing relevant activations. The full article is avaliable on [Medium](https://keras.io).
+This project uses Python and OpenCV to display feature maps of a ConvNet trained for an mini RC autonomous car. Also,  it allows video rendering superposing original images and relevant activations. The full article is avaliable on [Medium](https://keras.io).
 
 
 ## Code style
@@ -14,7 +14,7 @@ PEP 8 -- Style Guide for Python Code.
 
 ![alt text](https://github.com/Axionable/FeatureMaps/blob/master/Photos/merged_image.png?raw=true)
 
-A link to the final video can be found [here](https://www.youtube.com/watch?v=ccShIHBCx4g)
+The final video can be found [here](https://www.youtube.com/watch?v=ccShIHBCx4g)
 
 
 ## Tech/framework used
