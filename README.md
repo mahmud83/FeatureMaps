@@ -14,7 +14,7 @@ PEP 8 -- Style Guide for Python Code.
 
 ![alt text](https://github.com/Axionable/FeatureMaps/blob/master/Photos/merged_image.png?raw=true)
 
-A link to the video can be found [here](https://www.youtube.com/watch?v=ccShIHBCx4g)
+A link to the final video can be found [here](https://www.youtube.com/watch?v=ccShIHBCx4g)
 
 
 ## Tech/framework used
