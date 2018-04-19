@@ -26,8 +26,8 @@ A link to the final video can be found [here](https://www.youtube.com/watch?v=cc
 
 ## Features
 
-1. <strong>Get feature maps at every layer</strong>
-2. <strong>Activation and input image merging</strong>
+1. <strong>Get feature maps at any desired layer</strong>
+2. <strong>Activation map and input image merging</strong>
 3. <strong>Video rendering in .AVI format</strong>
 
 
