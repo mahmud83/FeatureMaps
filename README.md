@@ -47,7 +47,7 @@ Please refer to the `feature_maps` notebook for details.
 
 ## About Axionable
 
-Axionable is a leading Data Science and Data Consulting firm based on Paris, France. For knowing more about our projects and careers please visit [www.axionable.com](www.axionable.com). Follow us on [Twitter](https://twitter.com/AxionableData)
+Axionable is a leading Data Science and Data Consulting firm based on Paris, France. For knowing more about our projects and careers please visit [us](www.axionable.com). Follow us on [Twitter](https://twitter.com/AxionableData)
 
 
 
